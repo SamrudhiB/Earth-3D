@@ -76,7 +76,7 @@ const stars = new THREE.Points(
 )
 scene.add(stars)
 
-camera.position.z = 24
+camera.position.z = 17
 
 const mouse = {
   x : undefined,
